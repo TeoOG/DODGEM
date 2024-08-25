@@ -26,4 +26,4 @@ SCROLL out Zoom out
 
 ESC Exit Game
 
-In order to see the implementation, meaning the scrips, materials and textures navigate to the Assets folder.
+In order to see the implementation, meaning the scripts, materials and textures, navigate to the Assets folder.
