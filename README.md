@@ -2,7 +2,7 @@
 Video game "DODGEM" made in Unity3D.
 Someone could say that this is not a game in the traditional sense, meaning there is not an end goal. That's cause it was done for the purpose of a school project. Neverthanless, it demonstrates many game tropes, such as camera and player movement, spawning random objects and moving/applying texture on an object, that is a sphere, in this particular game.
 
-How to play: Navigate to the Build folder. To play, click on SUGROUOMENA.exe 
+**How to play:** Clone or download the repository, navigate to the Build folder, then click on **SUGROUOMENA.exe**.
 
 
 
@@ -35,3 +35,9 @@ How to play: Navigate to the Build folder. To play, click on SUGROUOMENA.exe
 
 
 In order to see the implementation, meaning the scripts, materials and textures, navigate to the Assets folder.
+
+
+![ezcv logo](https://raw.githubusercontent.com/TeoOG/DODGEM/refs/heads/master/DODGEM_Screenshot1.png)
+![ezcv logo](https://raw.githubusercontent.com/TeoOG/DODGEM/refs/heads/master/DODGEM_Screenshot2.png)
+![ezcv logo](https://raw.githubusercontent.com/TeoOG/DODGEM/refs/heads/master/DODGEM_Screenshot3.png)
+![ezcv logo](https://raw.githubusercontent.com/TeoOG/DODGEM/refs/heads/master/DODGEM_Screenshot4.png)
