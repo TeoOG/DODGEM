@@ -1,3 +1,4 @@
+# DODGEM
 Video game "DODGEM" made in Unity3D.
 Someone could say that this is not a game in the traditional sense, meaning there is not an end goal. That's cause it was done for the purpose of a school project. Neverthanless, it demonstrates many game tropes, such as camera and player movement, spawning random objects and moving/applying texture on an object, that is a sphere, in this particular game.
 
